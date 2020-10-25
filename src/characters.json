@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Nyssa sylvatica",
+        "image": "/images/Nyssa-sylvatica-fallform-sm-JH.jpg",
+        "type": "Tree"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Catalpa speciosa",
+        "image": "/images/Catalpa-speciosa-form-sm-JH.jpg",
+        "type": "Tree"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Lindera benzoin",
+        "image": "images/Lindera_benzoin_4.jpg",
+        "type": "Shrub"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Parthenocissus quinquefolia",
+        "image": "images/parthenocissus_quinquefolia.jpg",
+        "type": "Vine"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Solidago nemoralis",
+        "image": "images/solidago-nemoralis.jpg",
+        "type": "Perennial"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Quercus macrocarpa",
+        "image": "images/Quercus-macrocarpa.jpg",
+        "type": "Tree"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Juglans nigra",
+        "image": "images/juglans-nigra.jpg",
+        "type": "Tree"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": " Hamamelis virginiana",
+        "image": "images/Hamamelis-virginiana.jpg",
+        "type": "Shrub"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Panicum virgatum",
+        "image": "images/Panicum-virgatum.jpg",
+        "type": "Grass"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Aronia melanocarpa",
+        "image": "images/Aronia-melanocarpa.jpg",
+        "type": "Shrub"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Ligularia hybird",
+        "image": "images/ligularia-hybrid.jpg",
+        "type": "Perennial"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Aruncus dioicus",
+        "image": "images/Aruncus-dioicus.jpg",
+        "type": "Perennial"
+      }
+ ]
